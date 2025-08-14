@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center"> __| |__________________________________________________________________________________| |__ 
+(__| |__________________________________________________________________________________| |__)
+   | |  Hello, i'm David a rising developer with a passion for learning new lengauges
+  | |   
+ __| |__________________________________________________________________________________| |__ 
+(__|_|__________________________________________________________________________________|_|__)</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cadcano" alt="cadcano" /></a> </p>
 
