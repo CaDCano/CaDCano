@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<font size="5">  
+<font size="5" align="center">  
    aaaaaa
 </font>
 
