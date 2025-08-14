@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
+<h1 style="font-size: 20;" align="center">
  __| |__________________________________________________________________________________| |__ 
 (__| |__________________________________________________________________________________| |__)
    | |  Hello, i'm David a rising developer with a passion for learning new lengauges   | |   
