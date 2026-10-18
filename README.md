@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 style="font-size: 2;" align="center">
-(__| |______________________________________________________________| |__) <br>
+
 __| |______________________________________________________________| |__<br>
    __| |__________👋 Hello,i'm David a developer with 👋 ________| |__ <br>
    __| |_____🌎🌐 passion for learning new lengauges 🌐🌎____| |__ <br>
  __| |______________________________________________________________| |__ <br>
- __| |______________________________________________________________| |__ <br>
-(__| |______________________________________________________________| |__) </h1>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cadcano" alt="cadcano" /></a> </p>
 
